@@ -1,0 +1,23 @@
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.deps.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.runtimeconfig.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.runtimeconfig.dev.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.AssemblyInfoInputs.cache
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.AssemblyInfo.cs
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.csproj.CoreCompileInputs.cache
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.deps.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.runtimeconfig.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\bin\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.Common\obj\Debug\netcoreapp3.1\QLCT.Common.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.deps.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csprojAssemblyReference.cache
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.AssemblyInfoInputs.cache
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.AssemblyInfo.cs
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.runtimeconfig.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.runtimeconfig.dev.json
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.DAL.dll
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.DAL.pdb
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csproj.CopyComplete
+C:\Users\Pham Tuan Minh\Desktop\Do an\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.deps.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.runtimeconfig.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.BLL.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.Common.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.DAL.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.Common.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\bin\Debug\netcoreapp3.1\QLCT.DAL.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.csproj.CopyComplete
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.dll
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.pdb
+C:\Users\Asus\Desktop\Quan Ly Chi Tieu\QLCT.BLL\obj\Debug\netcoreapp3.1\QLCT.BLL.genruntimeconfig.cache
